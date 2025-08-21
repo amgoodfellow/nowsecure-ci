@@ -21,6 +21,7 @@
             pkgs.go_1_24
             pkgs.gopls
             pkgs.golangci-lint
+            pkgs.actionlint
             pkgs.gci
 
             pkgs.oapi-codegen
